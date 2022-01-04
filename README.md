@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SWINKY360
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... python, ju jitsu
+- 🌱 I’m currently learning ... python, pandas, 
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me ... twitter
 
